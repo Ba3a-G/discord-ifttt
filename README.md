@@ -1,6 +1,4 @@
-# discord-ifttt
-
-Public version of [discord-ifttt](https://discord-ifttt.vercel.app).
+# App to solve Discord IFTTT rate limiting
 
 Click the button below or fork the project and deploy it through the [Vercel](https://vercel.com) dashboard.
 
