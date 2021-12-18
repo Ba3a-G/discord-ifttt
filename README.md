@@ -1,4 +1,4 @@
-# App to solve Discord IFTTT rate limiting
+# App to solve Discord rate limiting when using IFTTT
 
 Click the button below or fork the project and deploy it through the [Vercel](https://vercel.com) dashboard.
 
